@@ -8,7 +8,7 @@
 ### - If the user does not pay for the ticket before leaving, the program prompts them to pay before exiting the garage.
 ### - The program also displays the garage rates for different durations of stay.
 
-### Language - Python 
+#### - Language - Python 
 
 
 
